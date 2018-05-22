@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Expenses" max_length="40" name="x_85959_expenses_g_expenses" sizeclass="3" type="collection">
+        <element label="Amount" max_length="40" name="amount" type="float"/>
+        <element label="Destination" max_length="40" name="destination" type="string"/>
+        <element label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+    </element>
+</database>

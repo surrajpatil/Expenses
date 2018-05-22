@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">d1d580df4f821300f0df2b8ca310c7d2</block>
+        <connected_to>857530da-8e35-481c-b3ae-df0235e499dd</connected_to>
+        <display_text/>
+        <flow display_value="Expense Approval">5fee73cb4f821300f0df2b8ca310c7c6</flow>
+        <inputs/>
+        <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-18 11:16:18</sys_created_on>
+        <sys_id>d5d580df4f821300f0df2b8ca310c7d3</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Expenses Getting Started" source="x_85959_expenses_g">a44b7b434f421300f0df2b8ca310c7e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expenses Getting Started">a44b7b434f421300f0df2b8ca310c7e6</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_d5d580df4f821300f0df2b8ca310c7d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-18 11:59:00</sys_updated_on>
+        <ui_id>9c92bc74-ad9e-426d-9d0a-5910db98b074</ui_id>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=d5d580df4f821300f0df2b8ca310c7d3"/>
+</record_update>

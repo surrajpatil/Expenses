@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="4d3dff4b4f821300f0df2b8ca310c77e" sys_domain="global" table="x_85959_expenses_g_expenses" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>d37dff4b4f821300f0df2b8ca310c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>577dff4b4f821300f0df2b8ca310c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>d77dff4b4f821300f0df2b8ca310c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>5b7dff4b4f821300f0df2b8ca310c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>db7dff4b4f821300f0df2b8ca310c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>amount</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>5f7dff4b4f821300f0df2b8ca310c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>destination</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>df7dff4b4f821300f0df2b8ca310c746</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>537dff4b4f821300f0df2b8ca310c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>d37dff4b4f821300f0df2b8ca310c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>577dff4b4f821300f0df2b8ca310c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>d77dff4b4f821300f0df2b8ca310c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>5b7dff4b4f821300f0df2b8ca310c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>db7dff4b4f821300f0df2b8ca310c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>5f7dff4b4f821300f0df2b8ca310c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:39:51</sys_created_on>
+            <sys_id>df7dff4b4f821300f0df2b8ca310c747</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_85959_expenses_g_expenses" sys_domain="global" view="Default view">4d3dff4b4f821300f0df2b8ca310c77e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:39:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_85959_expenses_g_expenses</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:38:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4d3dff4b4f821300f0df2b8ca310c77e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_85959_expenses_g_expenses</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Expenses Getting Started" source="x_85959_expenses_g">a44b7b434f421300f0df2b8ca310c7e6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Expenses Getting Started">a44b7b434f421300f0df2b8ca310c7e6</sys_scope>
+            <sys_update_name>sys_ui_section_4d3dff4b4f821300f0df2b8ca310c77e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:38:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

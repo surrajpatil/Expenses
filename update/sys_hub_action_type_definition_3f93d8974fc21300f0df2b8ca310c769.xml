@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <description/>
+        <label_cache/>
+        <latest_snapshot/>
+        <name>Approve or Reject </name>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-18 12:16:33</sys_created_on>
+        <sys_id>3f93d8974fc21300f0df2b8ca310c769</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approve or Reject </sys_name>
+        <sys_package display_value="Expenses Getting Started" source="x_85959_expenses_g">a44b7b434f421300f0df2b8ca310c7e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expenses Getting Started">a44b7b434f421300f0df2b8ca310c7e6</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_3f93d8974fc21300f0df2b8ca310c769</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-18 12:16:33</sys_updated_on>
+        <system_level>false</system_level>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=3f93d8974fc21300f0df2b8ca310c769"/>
+    <sys_variable_value action="delete_multiple" query="document_key=3f93d8974fc21300f0df2b8ca310c769"/>
+</record_update>

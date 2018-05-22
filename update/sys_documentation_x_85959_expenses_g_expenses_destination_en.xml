@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="destination" label="Destination" language="en" table="x_85959_expenses_g_expenses">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>destination</element>
+            <help/>
+            <hint/>
+            <label>Destination</label>
+            <language>en</language>
+            <name>x_85959_expenses_g_expenses</name>
+            <plural>Destinations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-18 10:33:09</sys_created_on>
+            <sys_id>85fbf34b4f821300f0df2b8ca310c7cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Destination</sys_name>
+            <sys_package display_value="Expenses Getting Started" source="x_85959_expenses_g">a44b7b434f421300f0df2b8ca310c7e6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Expenses Getting Started">a44b7b434f421300f0df2b8ca310c7e6</sys_scope>
+            <sys_update_name>sys_documentation_x_85959_expenses_g_expenses_destination_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-18 10:33:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

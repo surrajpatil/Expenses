@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <label_cache>[{"name":"eeaa0c5f-ca1b-4a9c-8c6f-d444f36acacc.approval_state","label":"2.1➛Approval State","reference_display":"Approval State"},{"name":"1fa538aa-cdfa-4543-a98d-b3be0b12d299.table_name","label":"1.1➛Expenses Table","reference":"x_85959_expenses_g_expenses","reference_display":"Expenses Table"},{"name":"1fa538aa-cdfa-4543-a98d-b3be0b12d299.record","label":"1.1➛Expenses Record","reference":"x_85959_expenses_g_expenses","reference_display":"Expenses Record"},{"name":"Created_1.current","label":"Trigger➛Expenses Record","reference":"x_85959_expenses_g_expenses","reference_display":"Expenses","type":"reference","base_type":"reference"},{"name":"Created_1.current.amount","label":"Trigger➛Expenses Record➛Amount","reference":"","reference_display":"Amount","type":"float","base_type":"float","parent_table_name":"x_85959_expenses_g_expenses","column_name":"amount"},{"name":"Created_1.current.requested_for.manager","label":"Trigger➛Expenses Record➛Requested for➛Manager","reference":"sys_user","reference_display":"Manager","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager"},{"name":"Created_1.current.sys_created_on","label":"Trigger➛Expenses Record➛Created","reference":"","reference_display":"Created","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_85959_expenses_g_expenses","column_name":"sys_created_on"}]</label_cache>
+        <name>Expense Approval</name>
+        <parent_flow display_value="Expense Approval">5fee73cb4f821300f0df2b8ca310c7c6</parent_flow>
+        <remote_trigger_id/>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-18 11:23:33</sys_created_on>
+        <sys_id>e77784df4f821300f0df2b8ca310c75f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Expense Approval</sys_name>
+        <sys_package display_value="Expenses Getting Started" source="x_85959_expenses_g">a44b7b434f421300f0df2b8ca310c7e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expenses Getting Started">a44b7b434f421300f0df2b8ca310c7e6</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_e77784df4f821300f0df2b8ca310c75f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-18 11:23:33</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>

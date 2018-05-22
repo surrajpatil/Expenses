@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>true</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>true</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Expenses</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_85959_expenses_g_expenses</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Task" name="task">c07df166b92013006517ce7df7ee46cb</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-18 10:33:08</sys_created_on>
+        <sys_id>e95b3f0b4f821300f0df2b8ca310c7fe</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Expenses</sys_name>
+        <sys_package display_value="Expenses Getting Started" source="x_85959_expenses_g">a44b7b434f421300f0df2b8ca310c7e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Expenses Getting Started">a44b7b434f421300f0df2b8ca310c7e6</sys_scope>
+        <sys_update_name>sys_db_object_e95b3f0b4f821300f0df2b8ca310c7fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-18 10:35:33</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_85959_expenses_g.expenses_user" name="x_85959_expenses_g.expenses_user">b4fb330b4f821300f0df2b8ca310c7a5</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
